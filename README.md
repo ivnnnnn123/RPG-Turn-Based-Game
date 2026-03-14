@@ -124,7 +124,11 @@ ENTER	Start combat with nearby enemy
 E	Open shop
 
 The project follows a Model–View–Controller (MVC) architecture:
+<br>
 Model – game logic and data
+<br>
 View – graphical interface
+<br>
 Controller – game saving and file management
-Technologies Used: Java, Java Swing (GUI), Object-Oriented Programming, Serialization for game saving, Event-driven programming
+<br>
+<strong>Technologies Used:</strong> Java, Java Swing (GUI), Object-Oriented Programming, Serialization for game saving, Event-driven programming
