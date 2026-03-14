@@ -2,6 +2,7 @@
 ## Overview:
 This project is a 2D turn-based RPG game developed in Java using Swing.
 The player controls a hero on a map, explores the environment, fights enemies in turn-based combat, collects items, and purchases equipment from a shop.
+<br>
 The objective of the game is to defeat all enemies on the map while managing the hero’s health, mana, inventory, and skills.
 The game demonstrates concepts from Object-Oriented Programming (OOP) such as inheritance, interfaces, encapsulation, polymorphism, and modular design using the MVC pattern.
 
@@ -9,7 +10,9 @@ The game demonstrates concepts from Object-Oriented Programming (OOP) such as in
 
 ### Map Exploration
 The player moves the hero on the map using W, A, S, D keys
+<br>
 The map contains: enemies, trees (obstacles), a shop.
+<br>
 The hero can interact with enemies and the shop.
 
 ### Combat System: 
